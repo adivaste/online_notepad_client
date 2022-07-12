@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo mv ./client.py ./note /usr/bin/
+sudo chmod 777 /usr/bin/client.py
+sudo chmod 777 /usr/bin/note
+
+echo "\n:: Notepad - All The File Moved Securely, Now you can use ONLINE NOTEPAD !\n"
